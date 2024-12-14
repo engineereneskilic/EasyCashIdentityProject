@@ -1,5 +1,5 @@
 # Easy Cash Asp.Net Core 6.0 Identity Project
-![**Pre-Accounting Automation (Image)**](easycash.jpg)  
+![**Pre-Accounting Automation (Image)**](easycash.JPG)  
 
 ## Table of Contents
 
